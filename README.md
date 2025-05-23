@@ -5,7 +5,6 @@
 1. README.md - Penjelasan gambaran umum project
 2. P0M1_bagas_distyo.ipynb - Notebook yang berisi pengolahan data dan analisis data dengan python.
 3. P0M1_bagas_distyo_dataset.csv - Dataset yang digunakan dalam project ini.
-dst.
 ```
 
 ## Problem Background
